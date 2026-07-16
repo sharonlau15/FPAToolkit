@@ -18,3 +18,4 @@ python3 scripts/generate.py
 2. metrics.py — 11 metrics (margins, cost ratios, DSO/DIO/DPO, CCC, YoY growth) as a registry. Each carries its unit and description so the report layer formats and labels without hardcoding. Add a metric = add a registry entry.
 3. compute_metrics.py - Run it with python3 scripts/compute_metrics.py from the project root.
 
+## Analytics
